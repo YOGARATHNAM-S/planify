@@ -1,0 +1,20 @@
+# Core Dependencies
+google-adk==1.14.0
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+
+# Google Cloud
+google-cloud-datastore
+google-cloud-logging
+
+# AI & LLMs
+langchain
+langchain-core
+langchain-community
+google-genai
+
+# Utilities
+wikipedia
+sqlalchemy
