@@ -19,7 +19,6 @@ An intelligent AI Assistant built to automate tasks, answer queries, and assist 
 * Cloud Run
 * Uvicorn
 * Pydantic
-<img width="1906" height="867" alt="image" src="https://github.com/user-attachments/assets/092fc73c-e8fd-497c-800e-408842a8cb38" />
 
 ## 📂 Project Structure
 
@@ -36,8 +35,8 @@ An intelligent AI Assistant built to automate tasks, answer queries, and assist 
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/abhishekmsm51w-star/taskify11.git
-cd taskify11
+git clone https://github.com/YOGARATHNAM-S/planify.git
+cd planify
 pip install -r requirements.txt
 ```
 
